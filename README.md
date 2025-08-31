@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Math undergraduate<br>🌱 I’m currently learning git motions<br>⚡ Fun fact, I'm a distance runner too
+🔭 Math undergraduate<br>🌱 I’m currently learning Android Development<br>⚡ Fun fact, I'm a distance runner too
 
 
 ## 🌐 Socials:
